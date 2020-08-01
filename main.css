@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+    color: rgb(47, 197, 42);
+}
+
+.two-words {
+    color: black;
+}
+
+section {
+    margin: 20px;
+}
+
+.center {
+    text-align: center;
+}
